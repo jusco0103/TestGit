@@ -8,6 +8,7 @@ namespace Application
             //  コンソールにHelloWorldと表示して終了
             Console.WriteLine("HelloWorld.");
             Console.WriteLine("HelloWorld.");
+            Console.WriteLine("HelloWorld.");
         }
     }
 }
